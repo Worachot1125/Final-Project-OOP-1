@@ -9,8 +9,9 @@
  3.สามารถคำนวณตังค์ เเละมีส่วนลดให้ง่ายๆ เพื่อบ้างคนไม่ถนัด คณิต 
  ```
 3.โครงสร้างของโปรแกรม (Class diagram) ของโปรแกรม ใช้ Mermaid ในการเขียน ตัวอย่าง การเขียน Classdiagram ใน Markdown
- Class Diagram
  ```mermaid
+Class Diagram
+
 classDiagram
   direction LR
   class form1{
