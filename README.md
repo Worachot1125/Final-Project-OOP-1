@@ -13,7 +13,6 @@
  ```mermaid
 classDiagram
   direction LR
-  class form1{
   -cheakin():void
   -cheaout():void
   -Save():void
